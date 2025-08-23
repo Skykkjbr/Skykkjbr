@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="200" src="https://tenor.com/view/tux-in-the-ring-linux-windows-butterfly-tux-vs-windows-gif-8919541133138371310"  />
-</div>
+<div class="tenor-gif-embed" data-postid="8919541133138371310" data-share-method="host" data-aspect-ratio="1.33155" data-width="100%"><a href="https://tenor.com/view/tux-in-the-ring-linux-windows-butterfly-tux-vs-windows-gif-8919541133138371310">Tux In The Ring Linux GIF</a>from <a href="https://tenor.com/search/tux+in+the+ring-gifs">Tux In The Ring GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 
@@ -51,14 +49,6 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Skykkj.Skykkj&"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
