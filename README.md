@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<h4 align="center">What do I do?<br>I am currently developing ROMs, Kernels and build aosp for tapas and topaz ( redmi note 12 4g )</h4>
+<h4 align="center">What do I do?<br>I am currently developing ROMs, Kernels and build aosp for tapas and topaz (redmi note 12 4g)</h4>
 
 ###
 
