@@ -1,10 +1,8 @@
-<div class="tenor-gif-embed" data-postid="8919541133138371310" data-share-method="host" data-aspect-ratio="1.33155" data-width="100%"><a href="https://tenor.com/view/tux-in-the-ring-linux-windows-butterfly-tux-vs-windows-gif-8919541133138371310">Tux In The Ring Linux GIF</a>from <a href="https://tenor.com/search/tux+in+the+ring-gifs">Tux In The Ring GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 ###
 
 <br clear="both">
 
-<h2 align="center">Who am I?<br>Hello my name is Raphael and I have 13 years Today I am studying programming</h2>
+<h1 align="left">Who am I?<br>Hello my name is Raphael and I have 13 years Today I am studying programming</h2>
 
 ###
 
@@ -43,12 +41,6 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Skykkj.Skykkj&"  />
 </div>
 
 ###
