@@ -49,12 +49,3 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cv4zvjdpwyl3yvjlotrortlkpa&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-</div>
-
-###
