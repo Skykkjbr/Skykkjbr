@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="200" src="https://tenor.com/view/tux-in-the-ring-linux-windows-butterfly-tux-vs-windows-gif-8919541133138371310"  />
-</div>
 
 ###
 
@@ -55,10 +52,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cv4zvjdpwyl3yvjlotrortlkpa)
 
 ###
