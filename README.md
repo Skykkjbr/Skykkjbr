@@ -1,7 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Who am I?<br>Hello my name is Raphael and I have 13 years Today I am studying programming</h2>
-
+<h2 align="center">Who am I?<br>Hello my name is sky and today I am studying programming</h2>
 ###
 
 <div align="left">
