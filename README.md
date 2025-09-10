@@ -3,10 +3,6 @@
 <h2 align="center">Who am I?<br>Hello my name is sky and today I am studying programming</h2>
 ###
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=Skykkj&locale=en&mode=weekly&theme=nightowl&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
 ###
 
 <br clear="both">
